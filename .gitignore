@@ -1,0 +1,9 @@
+﻿ml_models/
+*.pt
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite

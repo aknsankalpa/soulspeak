@@ -1,0 +1,14 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+requests>=2.31.0
+torch>=2.1.0
+transformers>=4.38.0
+sentencepiece>=0.1.99
+librosa>=0.10.0
+soundfile>=0.12.1
+openai-whisper>=20231117
+numpy>=1.24.0
+pyopenssl>=23.0.0
+psycopg2-binary>=2.9.0
+supabase>=2.0.0
+groq>=0.9.0
