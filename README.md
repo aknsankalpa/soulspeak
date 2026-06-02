@@ -4,6 +4,10 @@ Speech Personality Recognition with **real ML models**, **Whisper transcription*
 
 ---
 
+Models available at: https://huggingface.co/NSankalpa/soulspeak-models
+Download and place in ml_models/ before running.
+
+
 ## Architecture
 
 ```
